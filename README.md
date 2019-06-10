@@ -1,4 +1,4 @@
-# Forked from Scott Brady's repo https://github.com/scottbrady91/Angular4-OidcClientJs-Example/tree/implicit - Thanks for the great example and tuturial Scott!
+Forked from Scott Brady's repo https://github.com/scottbrady91/Angular4-OidcClientJs-Example/tree/implicit - Thanks for the great example and tuturial Scott!
 # Angular4-OidcClientJs-Example
 
 OpenID Connect integration with Angular CLI and oidc-client-js.
